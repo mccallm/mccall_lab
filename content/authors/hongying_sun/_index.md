@@ -50,6 +50,9 @@ social:
 #- icon: twitter
 #   icon_pack: fab
 #   link: 
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hongying-sun-6839bb82/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=hr0RQh4AAAAJ&hl=en
